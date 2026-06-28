@@ -60,7 +60,7 @@ export default function SupportPage() {
           </div>
 
           <motion.a
-            href="https://sociabuzz.com/stefismicin/tribe"
+            href="https://sociabuzz.com/mingyugf301/donate"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.02 }}
